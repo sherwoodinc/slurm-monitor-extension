@@ -1,0 +1,8 @@
+{
+  "name": "Slurm Monitor",
+  "description": "Periodic Slurm job monitoring either local or by ssh",
+  "uuid": "slurmmonitor@gervasioperez.ar",
+  "shell-version": [
+    "3.38"
+  ]
+}
